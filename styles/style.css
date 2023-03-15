@@ -1,0 +1,10 @@
+.num {
+	text-decoration: none;
+	color: #ecf0d8;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.num:hover {
+	color: #ffffff;
+}
